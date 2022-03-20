@@ -2,7 +2,7 @@
   <div class="container">
     <h3>Deploy on the Docker container using Ansible fully CI/CD!!</h3> 
     <h4>Welcome to the Docker Cluster!!</h4>
-    <h1>Today's Date- 19-03-2022</h1>
+    <h1>Today's Date- 20-03-2022</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
